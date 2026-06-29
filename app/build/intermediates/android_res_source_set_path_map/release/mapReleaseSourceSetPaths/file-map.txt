@@ -1,9 +1,0 @@
-com.example.dymnnotes.app-pngs-0 D:\Codex\Codex\2026-05-27\new-chat\app\build\generated\res\pngs\release
-com.example.dymnnotes.app-resValues-1 D:\Codex\Codex\2026-05-27\new-chat\app\build\generated\res\resValues\release
-com.example.dymnnotes.app-updated_navigation_xml-2 D:\Codex\Codex\2026-05-27\new-chat\app\build\generated\updated_navigation_xml\release
-com.example.dymnnotes.app-packageReleaseResources-3 D:\Codex\Codex\2026-05-27\new-chat\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
-com.example.dymnnotes.app-packageReleaseResources-4 D:\Codex\Codex\2026-05-27\new-chat\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
-com.example.dymnnotes.app-release-5 D:\Codex\Codex\2026-05-27\new-chat\app\build\intermediates\merged_res\release\mergeReleaseResources
-com.example.dymnnotes.app-main-6 D:\Codex\Codex\2026-05-27\new-chat\app\src\main\res
-com.example.dymnnotes.app-release-7 D:\Codex\Codex\2026-05-27\new-chat\app\src\release\res
-gradleHome-0 C:\Users\mrdem\.gradle

@@ -1,7 +1,0 @@
-#Tue Jun 02 21:12:42 EEST 2026
-base.0=D\:\\Codex\\Codex\\2026-05-27\\new-chat\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-base.1=D\:\\Codex\\Codex\\2026-05-27\\new-chat\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
-path.0=classes.dex
-path.1=classes2.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex
