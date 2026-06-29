@@ -1,48 +1,42 @@
-# <div align="center">
+<div align="center">
 
-<img src="assets/logo/logo.png" width="180" alt="Dymn Notes">
+<img src="assets/logo/logo.png" width="180" alt="Dymn Notes Logo">
 
 # Dymn Notes
 
-### Modern Material Design note-taking app for Android
+### Modern Material Design Note-Taking App for Android
 
-<img src="https://img.shields.io/badge/Android-14+-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Material%203-M3-2196F3?style=for-the-badge">
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+![Android](https://img.shields.io/badge/Android-14+-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-2196F3?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+Clean, fast and modern note-taking application built with Kotlin and Material Design 3.
 
 </div>
 
 ---
 
-## 📱 Overview
-
-**Dymn Notes** is a modern Android note-taking application built with Kotlin and inspired by Material Design.
-
-Create quick notes, interactive checklists and organize your ideas inside a clean interface designed for everyday productivity.
-
----
-
-# 🎬 Demo
+# 🎬 Preview
 
 <p align="center">
-<img src="assets/gifs/demo.gif" width="320">
+<img src="assets/gifs/demo.gif" width="320" alt="Demo">
 </p>
 
 ---
 
 # ✨ Features
 
-* 📝 Rich text notes
-* ✅ Interactive checklist notes
-* ⭐ Favorite notes
-* 📦 Archive notes
-* 🔍 Instant search
-* 🎨 Multiple wallpaper themes
-* 🎨 Custom tile colors
-* 🌗 Dark UI
-* ⚡ Lightweight and fast
-* 📱 Material Design interface
+- 📝 Create and edit notes
+- ✅ Interactive checklist notes
+- ⭐ Favorite notes
+- 📦 Archive notes
+- 🔍 Instant search
+- 🎨 Custom wallpapers
+- 🎨 Custom tile colors
+- 🌙 Dark theme
+- ⚡ Fast and lightweight
+- 📱 Material Design 3
 
 ---
 
@@ -66,28 +60,6 @@ Create quick notes, interactive checklists and organize your ideas inside a clea
 
 ---
 
-# 🛠 Built With
-
-* Kotlin
-* Android SDK
-* Material Design 3
-* Android Studio
-* Gradle Kotlin DSL
-
----
-
-# 📂 Project Structure
-
-```text
-app/
-assets/
- ├── gifs/
- ├── logo/
- └── screenshots/
-```
-
----
-
 # 📥 Download
 
 Download the latest APK from the **Releases** section.
@@ -96,12 +68,12 @@ Download the latest APK from the **Releases** section.
 
 # 📄 License
 
-MIT License
+This project is licensed under the MIT License.
 
 ---
 
 <div align="center">
 
-### Developed with ❤️ by Dymn Studio
+### Created with ❤️ by Dymn Studio
 
 </div>
