@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_app_icon.png.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/app_icon.png"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/layout_note_widget_layout.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/layout/note_widget_layout.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_pill_cyan_dark.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/pill_cyan_dark.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/xml_note_widget_info.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/xml/note_widget_info.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_pill_blue.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/pill_blue.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_pill_blue_dark.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/pill_blue_dark.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_ic_checkbox_off.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/ic_checkbox_off.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_widget_button_bg.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/widget_button_bg.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_ic_checkbox_on.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/ic_checkbox_on.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_pill_bg.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/pill_bg.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_pill_yellow.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/pill_yellow.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_widget_bg.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/widget_bg.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_pill_yellow_dark.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/pill_yellow_dark.xml"
+    },
+    {
+        "merged": "com.example.dymnnotes.app-debug-47:/drawable_widget_background.xml.flat",
+        "source": "com.example.dymnnotes.app-main-49:/drawable/widget_background.xml"
+    }
+]
